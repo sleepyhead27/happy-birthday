@@ -6,6 +6,8 @@
 
 It was a birthday of one of my friend and I wanted to wish her in a different and special way. So I put together this animated web page real quick to say Happy Birthday.
 
+#### [English]
+
 Feel free to use it to wish your friend if you want.
 You can get it running in a few easy steps:
 
@@ -13,3 +15,4 @@ You can get it running in a few easy steps:
 * Open `customize.json` and replace name/wish-message/image with your own
 * Turn on GitHub pages for the repository (Settings > GitHub Pages)
 * Send the URL that you get at the above step to your friend
+
