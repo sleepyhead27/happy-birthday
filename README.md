@@ -12,7 +12,7 @@ Feel free to use it to wish your friend if you want.
 You can get it running in a few easy steps:
 
 * Fork the repository
-* Open `customize.json` and replace name/wish-message/image with your own
+* Open `customize.json` and replace `name/wish-message/image` with your own
 * Turn on GitHub pages for the repository (Settings > GitHub Pages)
 * Send the URL that you get at the above step to your friend :)
 
@@ -22,6 +22,6 @@ Monggo kalau mau dipakai untuk teman anda.
 Dapat diimplementasikan dalam beberapa langkah mudah:
 
 * Fork the repository
-* Buka file `customize.json` dan ganti name(nama)/wish-message(pesan)/image(foto) dengan punyamu
+* Buka file `customize.json` dan ganti `name(nama) / wish-message(pesan) / image(foto)` dengan punyamu
 * Aktifkan GitHub pages untuk the repository (Settings > GitHub Pages)
 * Kirim URL halaham pada temanmu :)
