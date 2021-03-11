@@ -125,7 +125,7 @@ body {
 .six .hat {
   position: absolute;
   width: 40px;
-  top: 240px;
+  top: 80px;
   left: 51%;
   /* transform: scale(0.1); */
 }
@@ -247,7 +247,7 @@ body {
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 50%;
+    left: 49%;
   }
 }
 
@@ -281,7 +281,7 @@ body {
 
   .six .hat {
     width: 25px;
-    top: 123px;
+    top: 75px;
   }
 
   .wish-hbd {
